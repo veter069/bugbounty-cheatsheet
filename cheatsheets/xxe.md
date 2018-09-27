@@ -93,3 +93,7 @@ File stored on http://publicServer.com/parameterEntity_sendftp.dtd
 ```
 To convert between UTF-8 & UTF-7 use recode.
 `recode UTF8..UTF7 payload-file.xml`
+
+**XXEGen**
+
+File generator for security testing https://buer.haus/xxegen/
