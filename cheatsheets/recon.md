@@ -37,6 +37,8 @@ $ ruby extract.rb https://hackerone.com/some-file.js
 $ ruby extract.rb '|cat demo-file.js' -c
 ```
 
+# [Domained all tools for domain serach in one] (https://github.com/cakinney/domained
+
 # [ct-exposer] (https://github.com/veter069/ct-exposer)
 
 An OSINT tool that discovers sub-domains by searching Certificate Transparency logs from https://www.entrust.com/ct-search/
