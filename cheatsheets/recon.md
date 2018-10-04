@@ -41,6 +41,8 @@ $ ruby extract.rb '|cat demo-file.js' -c
 
 # [Domains list popular in Russia] (https://github.com/veter069/sublazerwlst)
 
+# [Sn1per] (https://github.com/veter069/Sn1per)
+
 # [ct-exposer] (https://github.com/veter069/ct-exposer)
 
 An OSINT tool that discovers sub-domains by searching Certificate Transparency logs from https://www.entrust.com/ct-search/
